@@ -1,8 +1,15 @@
-## ```"Decentralized Photo Social Media."```
+## `"Decentralized Photo Social Media."`
 
-![Video URL](https://emojipedia-us.s3.amazonaws.com/content/2020/04/05/yt.png)
+Forked from [dappuniversity/decentragram](https://github.com/dappuniversity/decentragram)
 
-[Tutorial URL](https://www.youtube.com/watch?v=8rhueOcTu8k)
+### Made the following changes:
 
-## 🔧 Project Diagram:
-![Project Diagram](https://i.gyazo.com/e7fa5d05ef7806419b4897ecc668a045.png)
+- Converted to Typescript 
+- Migrated from Truffle to HardHat 
+- Migrated from Web3.js to Ethers.js
+- Added HardHat React 
+- Page resets and refreshes seamlessly when new images are added
+- Tip amount is immediately updated in the UI
+- Changed to Jazzicon
+- System now detects if the account is changed in MetaMask and updates accordingly 
+- Works with local IPFS node

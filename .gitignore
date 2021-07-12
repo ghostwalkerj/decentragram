@@ -33,7 +33,7 @@ frontend/src/hardhat/typechain/Decentragram.d.ts
 frontend/src/hardhat/typechain/DecentragramFactory.ts
 typings/*
 
-*hardhat*
+*hardhat/*
 *node_modules*
 *artifacts*
 frontend/.env.development
